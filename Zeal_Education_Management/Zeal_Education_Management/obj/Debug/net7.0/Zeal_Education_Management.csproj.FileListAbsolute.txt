@@ -1,0 +1,624 @@
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+E:\projects\eproject_Zeal\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+E:\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal_Institute\eproject_Zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+C:\Users\User\Downloads\Zeal_Education_Management (4)\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+C:\Users\m\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+C:\Users\Shivjis Enterprises\Downloads\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal-Manager-Eproject\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.Development.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\appsettings.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.staticwebassets.runtime.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.exe
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.deps.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.runtimeconfig.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Zeal_Education_Management.pdb
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Core.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Azure.Identity.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Humanizer.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.CodeDom.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Memory.Data.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.AssemblyReference.cache
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfoInputs.cache
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.AssemblyInfo.cs
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CoreCompileInputs.cache
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.MvcApplicationPartsAssemblyInfo.cache
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cache
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.RazorAssemblyInfo.cs
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.Zeal_Education_Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Zeal_Education_Management.props
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Zeal_Education_Management.props
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Zeal_Education_Management.props
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.pack.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.build.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\staticwebassets.development.json
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutInstructor.cshtml.rz.scp.css
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutStudent.cshtml.rz.scp.css
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\bundle\Zeal_Education_Management.styles.css
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\scopedcss\projectbundle\Zeal_Education_Management.bundle.scp.css
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.csproj.CopyComplete
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\refint\Zeal_Education_Management.dll
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.pdb
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\Zeal_Education_Management.genruntimeconfig.cache
+E:\update-zeal\Zeal_Education_Management\Zeal_Education_Management\obj\Debug\net7.0\ref\Zeal_Education_Management.dll
